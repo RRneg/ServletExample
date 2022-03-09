@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>SimpleServlet</servlet-name>
-        <servlet-class>net.proselyte.servletstutorial.SimpleServlet</servlet-class>
+        <servlet-class>SimpleServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
